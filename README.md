@@ -1,2 +1,2 @@
-# amazon-clone
-Amazon.in clone built using React JS.
+# Amazon.in Clone
+This project was bootstrapped with Create React App.
